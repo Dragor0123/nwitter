@@ -1,3 +1,3 @@
-const Auto = () => <span>Auth</span>;
+const Auth = () => <span>Auth</span>;
 
 export default Auth;
